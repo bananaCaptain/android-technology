@@ -7,10 +7,7 @@ workspace.xml 文件下添加以下内容，然后再进行首次提交
 
 
 <component name="ChangeListManager">
-    <list default="true" readonly="true" id="a0e97fd6-7285-4ee1-8a57-0f7ca669f55e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/tab_tv_bg_shape.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/tab_tv_bg_shape.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_about.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_about.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8ac7d056-1584-4a90-97e4-b25f41093ecc" name="Default Changelist" comment="" />
     <ignored mask="*.apk" />
     <ignored mask="*.ap_" />
     <ignored mask="*.dex" />
@@ -25,3 +22,16 @@ workspace.xml 文件下添加以下内容，然后再进行首次提交
     <ignored path=".idea/" />
     <ignored path=".externalNativeBuild/" />
     <ignored path=".navigation/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  
+  注意：这里需要打开编辑才能看到内容
